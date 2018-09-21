@@ -1,0 +1,33 @@
+_repo: Burlesque-Plays-and-Poems_53606
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: ''
+gutenberg_issued: '2016-11-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcsh 'Burlesques'
+- !lcsh 'English drama'
+- !lcc 'PR'
+- GITenberg
+tableOfContents: Chaucer's Rime of Thopas -- Beaumont & Fletcher's Knight of the burning
+  pestle -- George Villiers, duke of Buckingham's Rehearsal -- John Philips's Splendid
+  shilling -- Fielding's Tom Thumb the Great -- Henry Carey's Namy pamby and Chrononhotonthologos
+  -- Canning, Frere & Ellis's Rovers -- W.B. Rhodes's Bombastes furioso -- Horace
+  & James Smith's Rejected addresses -- Some of Thomas Hood's Odes and addresses to
+  great people.
+title: Burlesque Plays and Poems
+url: http://www.gutenberg.org/ebooks/53606
